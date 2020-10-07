@@ -1,0 +1,16 @@
+# Site settings
+title: Param Chauhan
+description: Personal Website
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://param211.github.io
+
+# User settings
+username: Param Chauhan
+user_description: I am an Information Technology Undergrad at NSIT, New Delhi. My passion lies in programming impactful bits of software, always searching for the next big problem to solve. In my free time you'll find me either browsing Hacker News or reading some random chunks facts, news, history, science or tech.  
+user_title: Programmer, Polymath
+# email: param@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  param211
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
