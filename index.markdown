@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
+
+I am an Information Technology Undergrad at NSIT, New Delhi. My passion lies in programming impactful bits of software, always searching for the next big problem to solve. In my free time you'll find me either browsing Hacker News or reading some random chunks of facts, news, history, science or tech.
+
