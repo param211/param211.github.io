@@ -1,7 +1,40 @@
-<footer class="footer">
-    <!-- <p>&copy; {{ site.username }}</p> -->
-    <p>© 2021, Param Chauhan</a></p>
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <!-- <p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p> -->
+      <!-- {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %} -->
+      <center>
+      <a href="https://www.linkedin.com/in/paramsinghchauhan/">Linkedin</a>
+       | 
+      <a href="https://www.github.com/param211">Github</a>
+       | 
+      <a href="https://www.instagram.com/paramchauhan21/">Instagram</a>
+      </center>
+      </div>
+      <!-- <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div> -->
+    </div>
+
+  </div>
+
 </footer>
-<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<script src="{{ '/assets/js/sweet-scroll.min.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
