@@ -1,7 +1,3 @@
 ---
-layout: page
+layout: projects-home
 ---
-
-Projects Page
-TODO
-
