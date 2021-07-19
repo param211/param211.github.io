@@ -1,6 +1,15 @@
 ---
 layout: page
+title: Hey 👋
 ---
+I am an Information Technology undergrad at NSIT, New Delhi. I am passionate about solving problems using technology and making everyday life easier.
 
-I am an Information Technology Undergrad at NSIT, New Delhi. My passion lies in programming impactful bits of software, always searching for the next big problem to solve. In my free time you'll find me either browsing Hacker News or reading some random chunks of facts, news, history, science or tech.
+👨‍💻 I’m currently working with python, developing backends and APIs using Django.
 
+👯 I’m looking to collaborate on startups, cool AI stuff and weekend projects. 
+
+🤔 I’m looking for help with frontend development, SPAs and PWAs.
+
+📫 How to reach me: param&lt;dot&gt;chauhan21&lt;at&gt;gmail&lt;dot&gt;com
+
+😄 Pronouns: He/Him 
