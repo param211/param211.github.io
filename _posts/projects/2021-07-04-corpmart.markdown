@@ -3,7 +3,7 @@ layout: post
 title:  "Corpmart - Project Writeup"
 date:   2021-07-04 08:36:56 +0000
 categories: projects
-permalink: /projets/corpmart/
+permalink: /projects/corpmart/
 ---
 Link: [www.corpmart.in](www.corpmart.in) `(offline since July 2021)` <br>
 Demo instance:<br>
