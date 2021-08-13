@@ -1,10 +1,46 @@
 ---
 layout: post
-title:  "Corpmart - Freelance Project"
+title:  "Corpmart - Project Writeup"
 date:   2021-07-04 08:36:56 +0000
 categories: projects
+permalink: /projets/corpmart/
 ---
+Link: www.corpmart.in `(offline since July 2021)` <br>
+Demo instance:<br>
+https://corpmart-frontend.herokuapp.com/<br>
+https://corpmart-backend.herokuapp.com/api/v1/
+## Introduction
+Corpmart is a platform to buy and sell "businesses". People who want to exit their business can list their business on corpmart and prospective buyers can browse these listed businesses.
 
-## Description Todo
+Buying and selling a business isn't as simple as buying a product on an ecommerce store, with a ton of paperwork and verification issues. Corpmart makes this process simpler.
 
-https://corpmart.in
+We (team of three developers) were approached by a chartered accountant duo through mutual acquaintances. They had experience in buying and selling businesses offline and had come with the idea of taking it online, during the coronavirus pandemic.
+
+The three of us had split work amongst ourselves. I was responsible for developing the backend along with the API.
+
+## Developement
+The backend was made in Python using the Django Framework, with the REST APIs being made with DjangoRest Framwork.
+
+PostgreSQL was used as the realtional database beacuse of its compatibility with Django. The production instance was deployed on Google Cloud using their App Engine offering.
+
+### Backend Screenshots
+**Admin Page**
+![](/assets/corpmart-images/corpmart-admin.png)
+**API's root**
+![](/assets/corpmart-images/corpmart-api-root.png)
+**Business List Endpoint**
+![](/assets/corpmart-images/corpmart-business-list-api.png)
+**Business Detail Endpoint**
+![](/assets/corpmart-images/corpmart-business-detail-api.png)
+
+
+### Some notable challenges:
+* OTP Login
+	It was decided that the only medium of login should be via 5 digit one time passwords. Implementing this was particulary difficult since Django is highly opinionated towards the traditional email id - password system. The absence of any libraries meant that the user profile generation had to be overridden and custom otp generation and verification logic and endpoints were implemented.
+* SMS notifications
+	Along with the OTP, the clients required that whenever a business purchase request was made or a query was asked through the chatbot, an immediate sms notification should go to the site admin. This was implemented through third party sms providers, through APIs.
+	
+### Frontend Screenshots
+![](/assets/corpmart-images/corpmart-frontend-home.png)
+![](/assets/corpmart-images/corpmart-frontend-business-list.png)
+![](/assets/corpmart-images/corpmart-business-details.png)
