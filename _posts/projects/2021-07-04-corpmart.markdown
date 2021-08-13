@@ -5,10 +5,10 @@ date:   2021-07-04 08:36:56 +0000
 categories: projects
 permalink: /projets/corpmart/
 ---
-Link: www.corpmart.in `(offline since July 2021)` <br>
+Link: [www.corpmart.in](www.corpmart.in) `(offline since July 2021)` <br>
 Demo instance:<br>
-https://corpmart-frontend.herokuapp.com/<br>
-https://corpmart-backend.herokuapp.com/api/v1/
+[https://corpmart-frontend.herokuapp.com/](https://corpmart-frontend.herokuapp.com/)<br>
+[https://corpmart-backend.herokuapp.com/api/v1/](https://corpmart-backend.herokuapp.com/api/v1/)
 ## Introduction
 Corpmart is a platform to buy and sell "businesses". People who want to exit their business can list their business on corpmart and prospective buyers can browse these listed businesses.
 
