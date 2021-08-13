@@ -35,9 +35,9 @@ PostgreSQL was used as the realtional database beacuse of its compatibility with
 
 
 ### Some notable challenges:
-* OTP Login
+* OTP Login:
 	It was decided that the only medium of login should be via 5 digit one time passwords. Implementing this was particulary difficult since Django is highly opinionated towards the traditional email id - password system. The absence of any libraries meant that the user profile generation had to be overridden and custom otp generation and verification logic and endpoints were implemented.
-* SMS notifications
+* SMS notifications:
 	Along with the OTP, the clients required that whenever a business purchase request was made or a query was asked through the chatbot, an immediate sms notification should go to the site admin. This was implemented through third party sms providers, through APIs.
 	
 ### Frontend Screenshots
