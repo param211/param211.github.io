@@ -9,5 +9,5 @@ title: Links for Resume
 
 * Github: [https://github.com/param211](https://github.com/param211)
 
-* Linkedin: [https://github.com/param211](https://www.linkedin.com/in/paramsinghchauhan/)
+* Linkedin: [https://www.linkedin.com/in/paramsinghchauhan/](https://www.linkedin.com/in/paramsinghchauhan/)
 
