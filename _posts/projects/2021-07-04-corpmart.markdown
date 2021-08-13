@@ -25,13 +25,13 @@ PostgreSQL was used as the realtional database beacuse of its compatibility with
 
 ### Backend Screenshots
 **Admin Page**
-![](/assets/corpmart-images/corpmart-admin.png)
+![](/assets/corpmart-images/corpmart-admin.png) <br>
 **API's root**
-![](/assets/corpmart-images/corpmart-api-root.png)
+![](/assets/corpmart-images/corpmart-api-root.png) <br>
 **Business List Endpoint**
-![](/assets/corpmart-images/corpmart-business-list-api.png)
+![](/assets/corpmart-images/corpmart-business-list-api.png) <br>
 **Business Detail Endpoint**
-![](/assets/corpmart-images/corpmart-business-detail-api.png)
+![](/assets/corpmart-images/corpmart-business-detail-api.png) <br>
 
 
 ### Some notable challenges:
@@ -41,6 +41,6 @@ PostgreSQL was used as the realtional database beacuse of its compatibility with
 	Along with the OTP, the clients required that whenever a business purchase request was made or a query was asked through the chatbot, an immediate sms notification should go to the site admin. This was implemented through third party sms providers, through APIs.
 	
 ### Frontend Screenshots
-![](/assets/corpmart-images/corpmart-frontend-home.png)
-![](/assets/corpmart-images/corpmart-frontend-business-list.png)
-![](/assets/corpmart-images/corpmart-business-details.png)
+![](/assets/corpmart-images/corpmart-frontend-home.png) <br>
+![](/assets/corpmart-images/corpmart-frontend-business-list.png) <br>
+![](/assets/corpmart-images/corpmart-business-details.png) <br>
