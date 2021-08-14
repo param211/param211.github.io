@@ -4,6 +4,7 @@ title:  "Corpmart - Project Writeup"
 date:   2021-07-04 08:36:56 +0000
 categories: projects
 permalink: /projects/corpmart/
+hidden: true
 ---
 Link: [https://corpmart.in/](https://corpmart.in/) `(offline since July 2021)` <br>
 Demo instance:<br>

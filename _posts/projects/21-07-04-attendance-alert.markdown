@@ -3,6 +3,8 @@ layout: post
 title:  "Attendance Alert (App and Backend)"
 date:   2021-07-04 08:36:56 +0000
 categories: projects
+permalink: /projects/attendance-alert/
+hidden: true
 ---
 
 ## Description Todo
