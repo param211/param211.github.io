@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corpmart - Project Writeup"
+title:  "Corpmart"
 date:   2021-07-04 08:36:56 +0000
 categories: projects
 permalink: /projects/corpmart/
