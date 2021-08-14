@@ -6,7 +6,7 @@ I am an Information Technology undergrad at NSIT, New Delhi. I am passionate abo
 
 👨‍💻 I’m currently working with python, developing backends and APIs using Django.
 
-👯 I’m looking to collaborate on startups, cool AI stuff and weekend projects. 
+👯 I’m looking to collaborate on python, cool AI stuff and weekend projects. 
 
 🤔 I’m looking for help with frontend development, SPAs and PWAs.
 
