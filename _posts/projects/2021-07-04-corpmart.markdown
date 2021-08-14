@@ -5,7 +5,7 @@ date:   2021-07-04 08:36:56 +0000
 categories: projects
 permalink: /projects/corpmart/
 ---
-Link: [www.corpmart.in](www.corpmart.in) `(offline since July 2021)` <br>
+Link: [https://corpmart.in/](https://corpmart.in/) `(offline since July 2021)` <br>
 Demo instance:<br>
 [https://corpmart-frontend.herokuapp.com/](https://corpmart-frontend.herokuapp.com/)<br>
 [https://corpmart-backend.herokuapp.com/api/v1/](https://corpmart-backend.herokuapp.com/api/v1/)
