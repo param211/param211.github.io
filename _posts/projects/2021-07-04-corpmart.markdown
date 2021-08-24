@@ -6,7 +6,8 @@ categories: projects
 permalink: /projects/corpmart/
 hidden: true
 ---
-Link: [https://corpmart.in/](https://corpmart.in/) `(offline since July 2021)` <br>
+Link: <br>
+[https://corpmart.in/](https://corpmart.in/) `(offline since July 2021)` <br>
 Demo instance:<br>
 [https://corpmart-frontend.herokuapp.com/](https://corpmart-frontend.herokuapp.com/)<br>
 [https://corpmart-backend.herokuapp.com/api/v1/](https://corpmart-backend.herokuapp.com/api/v1/)<br>
