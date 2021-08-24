@@ -5,7 +5,7 @@ title: Links for Resume
 
 * [Corpmart]({% post_url /projects/2021-07-04-corpmart %})
 
-* [Covid-19 Prediction Model](https://share.streamlit.io/rishabh9260/covid-19-blood-test/main)
+* [Covid-19 Prediction using Blood Test Model](https://share.streamlit.io/rishabh9260/covid-19-blood-test/main)
 
 * [Webscraping in Python Workshop](https://youtu.be/svAirFaVb9s)
 
