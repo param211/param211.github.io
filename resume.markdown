@@ -9,6 +9,8 @@ title: Links for Resume
 
 * [Webscraping in Python Workshop](https://youtu.be/svAirFaVb9s)
 
+* [CBT (open source) merged PRs](https://github.com/intel/cve-bin-tool/commits?author=param211) (excludes non-authored PRs)
+
 * [Github](https://github.com/param211)
 
 * [Linkedin](https://www.linkedin.com/in/paramsinghchauhan/)
