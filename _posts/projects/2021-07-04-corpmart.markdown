@@ -30,6 +30,10 @@ The backend was made in Python using the Django Framework, with the REST APIs be
 PostgreSQL was used as the realtional database beacuse of its compatibility with Django. The production instance was deployed on Google Cloud using their App Engine offering.
 
 ### Backend Screenshots
+**Tables**
+
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/EXhoitVq9K72RdcVqTVk6v@2Ux7TurymMvSDyH4wgT4"></iframe> <br>
+
 **Admin Page**
 ![](/assets/corpmart-images/corpmart-admin.png) <br>
 **API's root**
