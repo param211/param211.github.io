@@ -13,8 +13,7 @@ Demo instance:<br>
 [https://corpmart-backend.herokuapp.com/api/v1/](https://corpmart-backend.herokuapp.com/api/v1/)<br>
 <br>
 Note: to access backend and admin panel, login at [https://corpmart-backend.herokuapp.com/admin/](https://corpmart-backend.herokuapp.com/admin/) with email `example@mail.com` and password: `123456` .<br><br>
-Sample backup codebase:<br>
-[https://github.com/param211/corpmart-backup/tree/main](https://github.com/param211/corpmart-backup/tree/main)<br>
+<br>
 ## Introduction
 Corpmart is a platform to buy and sell "businesses". People who want to exit their business can list their business on corpmart and prospective buyers can browse these listed businesses.
 
